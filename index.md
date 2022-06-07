@@ -1,1 +1,1 @@
-https://chloe-hahn.github.io/how-to-build-dynamsoft-docs/
+https://chloe-hahn.github.io/build-dynamsoft-docs/
