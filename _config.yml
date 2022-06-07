@@ -1,1 +1,21 @@
 remote_theme: just-the-docs/just-the-docs
+
+collections:
+  seo:
+    permalink: "/:collection/:path/"
+    output: true
+  style-guide:
+    permalink: "/:collection/:path/"
+    output: true
+  how-to:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  collections:
+    seo:
+      name: SEO
+    style-guide:
+      name: Style guide
+    how-to:
+      name: How to
